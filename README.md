@@ -53,5 +53,5 @@ When I’m not coding, you can find me experimenting with **classical music** �
 
 ## 📬 Let’s Connect
 - 📧 Email: [Kyle.Barnette7@gmail.com](mailto:Kyle.Barnette7@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-link-here](https://linkedin.com/)  
+- 💼 LinkedIn: https://www.linkedin.com/in/kyle-barnette-08349532a/
 - 🌐 Portfolio Website: *Coming soon!*  
