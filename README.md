@@ -22,8 +22,8 @@
 - **🎂 Leap Year Birthday Finder (Python)**  
   Checks if a user’s birthday falls on a leap year.  
 
-- **🪚 Lumber Estimator (C++)**  
-  Estimates how much lumber is needed to build a fence.  
+- **🪚 Paint Estimator (C++)**  
+  Estimates how many gallons are needed to paint a fence.  
 
 - **📚 MERN Stack Library App (MongoDB, Express, React, Node.js)**  
   Full-stack web app with book check-in/checkout functionality and real-time status tracking.  
